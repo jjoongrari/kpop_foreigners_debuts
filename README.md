@@ -249,7 +249,9 @@ M/F/C — Male, Female, Co-ed
 ⊹♡ Исследования по K-pop и музыкальной индустрии:
 
   ⊹♡ [A Big Data Analysis of K-POP on Social Media](https://doi.org/10.12975/rastmd.20221024)
+
   ⊹♡ [The social distinction in having domestic versus foreign favorite music artists](https://doi.org/10.1016/j.poetic.2014.06.003)
+  
   ⊹♡ [A Demographic Sampling Model and Database for Popular-music Empirical Research](https://doi.org/10.18061/emr.v17i1.8531)
 
 ## ⊹♡ Автор
