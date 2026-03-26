@@ -118,9 +118,8 @@ M/F/C — Male, Female, Co-ed
 2. Существует ли устойчивая тенденция к росту числа дебютов групп с иностранными участниками?  
 3. В какие годы наблюдались наиболее заметные изменения в доле интернациональных дебютов?  
 4. Каково соотношение групп с иностранцами и без них в разные годы исследуемого периода?  
-5. Можно ли говорить о стабилизации доли иностранных участников в дебютах в последние годы?  
-6. Отличается ли доля интернациональных дебютов у разных агентств?  
-7. Насколько разнообразна география иностранных участников в разные годы?  
+5. Можно ли говорить о стабилизации доли иностранных участников в дебютах в последние годы?   
+6. Насколько разнообразна география иностранных участников в разные годы?  
 
 
 ## ⊹♡ Визуализации
@@ -246,11 +245,12 @@ M/F/C — Male, Female, Co-ed
 ⊹♡ [k-pop-database-tables](https://dbkpop.com/k-pop-database-tables/) — база данных K-pop групп  
 ⊹♡ [Kaggle K-pop Idols Dataset](https://www.kaggle.com/datasets/nicolsalayoarias/all-kpop-idols/data)  
 ⊹♡ Spotify Charts  
+
 ⊹♡ Исследования по K-pop и музыкальной индустрии:
 
-  ⊹♡ A Big Data Analysis of K-POP on Social Media  
-  ⊹♡ The social distinction in having domestic versus foreign favorite music artists  
-  ⊹♡ A Demographic Sampling Model and Database for Popular-music Empirical Research  
+  ⊹♡ [A Big Data Analysis of K-POP on Social Media](https://doi.org/10.12975/rastmd.20221024)
+  ⊹♡ [The social distinction in having domestic versus foreign favorite music artists](https://doi.org/10.1016/j.poetic.2014.06.003)
+  ⊹♡ [A Demographic Sampling Model and Database for Popular-music Empirical Research](https://doi.org/10.18061/emr.v17i1.8531)
 
 ## ⊹♡ Автор
 
