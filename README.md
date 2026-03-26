@@ -1,8 +1,3 @@
-# kpop_foreigners_debuts
-HSE ; final project for 2026's OD course 
-
-
-
 # Динамика присутствия иностранных участников в дебютных составах K-pop-групп 2012-2025
 
 ## О проекте
